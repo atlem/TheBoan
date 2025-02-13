@@ -1,0 +1,57 @@
+<!DOCTYPE html> 
+    <html lang="en">
+            <head>
+                    <meta charset="UTF-8">
+                    <meta name="viewport"               content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+                    <meta name="mobile-web-app-capable" content="yes">
+                    <meta name="author"                 content="Atl3m ">
+                    <meta name="copyright"              content="encryptia.no © 2025 " />
+                    <meta name="theme-color"            content="#070223" />
+                    <meta name="identifier-url" 		content="http://www.encryptia.no/" />
+                    <title>The Boan - Encryptia city hotel bar</title>
+                    <meta name="description" 			content="The Boan - Encryptia city hotel bar"/>
+                    <!--<link rel="shortcut icon" 	href="./img/favicon.ico"/>-->
+                    <link rel="icon"        href="https://usercontent.one/wp/www.encryptia.no/wp-content/uploads/2022/10/encryptia-siteicon-300x300.png?media=1730955146" sizes="32x32">
+                    <link rel="stylesheet"  href="./Style.css"  type="text/css"/>
+            </head>
+            <body>
+                    <div class="background-image">
+                        <div class="container">
+                            <div class="sidebar"><!-- Left Sidebar Nav -->              
+                                <!--<p class="MenuTitle">MENU</p>-->
+                                <nav class="nav-container">
+                                        <button id="defaultOpen" class="nav-item" data-category="Coffee"><div id="innernav"><center><img class="menu-item" style="height: 100px; width: 100px;" src="https://files.encryptiacity.com/images/codespresso.png" alt="The Boan"><P class="NavName">COFFEE</P></center></div></button>
+                                        <button class="nav-item" data-category="Pastries"><div><center><img class="menu-item" style="height: 100px; width: 100px;" src="https://files.encryptiacity.com/images/muffin.png" alt="The Boan"><P class="NavName">PASTRIES</P></center></div></button>
+                                        <button class="nav-item" data-category="Smoothies"><div><center><img class="menu-item" style="height: 100px; width: 100px;" src="https://files.encryptiacity.com/images/blueberrySmoothie.png" alt="The Boan"><P class="NavName">SMOOTHIES</P></center></div></button>
+                                        <!--<button class="nav-item" data-category="About">ABOUT</button>-->
+                                </nav>
+                            <div class="checkout-footer"><!-- Bottom Footer (Inside Menu) --><p class="powered-by">Encryptia Hotel</p></div>               
+                            </div>
+                                    <div class="main"> <!-- Main Content -->
+                                                    <div class="search-bar"><input type="text" id="searchInput" placeholder="Search product..."><img class="search-icon" src="https://files.encryptiacity.com/images/magnifyingGlass.png" alt="Search Icon"></img></div>
+                                                    <div id="Coffee" class="products"></div>
+                                                    <div id="Pastries" class="products" style="display:none;"></div>
+                                                    <div id="Smoothies" class="products" style="display:none;"></div>
+                                        </div>
+                                    <div class="checkout-sidebar"><!-- Right Sidebar Checkout -->
+                                    <div class="LogoBorder"> <img class="logo"  src="Logo.png" alt="The Boan"></div>
+                                    <div class="CheckoutProducts"><center>Encryptia Hotel Swipe Terminal</center><p></p><center>THE BOAN</center><center>---------------</center><center><h2>Checkout...</h2></center><center>---------------</center>
+                                            <div class="checkout">
+                                                        <table id="checkout-summary">
+                                                            <thead><tr><th>Product</th><th>Price</th><th>Qty</th></tr></thead>
+                                                            <tbody></tbody>
+                                                        </table>
+                                                <div class="total-footer"><p>Total:</p><p id="total">$0.00</p></div>   
+                                            </div>
+                                        </div>
+                                                        <p style="text-align: center; font-size:11px;">BioSwipe system. scan finger to pay.</p>
+                                                        <button class="place-order">Scan</button><p></p>
+                                                        <div id="confirm-section"></div><!-- Confirm Order Section (Inside Checkout) -->
+                                        <div class="checkout-footer"><!-- Bottom Footer (Inside Checkout) --><p class="powered-by">Powered by Cyber Security</p></div>    
+                                    </div> 
+                                </div>
+                        </div>             
+                    <div id="tooltip" class="tooltip"></div><!-- Tooltip Element -->
+                <script src="./Script.js"></script>
+            </body>
+    </html>
