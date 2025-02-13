@@ -1,0 +1,39 @@
+{
+    "Coffee": [
+      { "name": "Nano Matcha", "price": 5.10, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/nanomatcha.png" },
+      { "name": "Codespresso", "price": 4.00, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/codespresso.png" },
+      { "name": "Lattech", "price": 4.50, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/lattech.png" },
+      { "name": "Cocoa Peak", "price": 6.00,"description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/cocoapeak.png" },
+      { "name": "Cyberbrew", "price": 6.50,"description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/lattech.png" },
+      { "name": "Espresso", "price": 4.75, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/lattech.png" },
+      { "name": "VanillaCloud", "price": 5.20, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/lattech.png" },
+      { "name": "Mocha Bliss", "price": 5.80, "description": "A strong, concentrated coffee with a rich aroma.","image": "https://files.encryptiacity.com/images/lattech.png" }
+    ],
+    "Pastries": [
+      { "name": "Pastries Matcha", "price": 3.50,"description": "A strong, concentrated coffee with a rich aroma.",  "image": "https://files.encryptiacity.com/images/cheesecake.png" },
+      { "name": "CodeMatcha", "price": 3.80, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/extraCream.png" },
+      { "name": "Matchatech", "price": 3.20,"description": "A strong, concentrated coffee with a rich aroma.",  "image": "https://files.encryptiacity.com/images/muffin.png" },
+      { "name": "Cocoa Matcha", "price": 3.90,"description": "A strong, concentrated coffee with a rich aroma.",  "image": "https://files.encryptiacity.com/images/chocolateSyrup.png" },
+      { "name": "Croissant", "price": 4.00,"description": "A strong, concentrated coffee with a rich aroma.",  "image": "https://files.encryptiacity.com/images/chocolateSyrup.png" },
+      { "name": "Chocolate", "price": 4.50,"description": "A strong, concentrated coffee with a rich aroma.",  "image": "https://files.encryptiacity.com/images/chocolateSyrup.png" },
+      { "name": "Berry Tart", "price": 5.00, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/chocolateSyrup.png" },
+      { "name": "Honey Muffin", "price": 3.75, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/chocolateSyrup.png" }
+    ],
+    "Smoothies": [
+      { "name": "Tropical Fusion", "price": 6.00, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/blueberrySmoothie.png" },
+      { "name": "Berry Blast", "price": 5.50, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/strawberrySmoothie.png" },
+      { "name": "Peach Sunrise", "price": 5.80, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/matcha.png" },
+      { "name": "Green Detox", "price": 6.20, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/blueberrySmoothie.png" },
+      { "name": "Tropical Fusion", "price": 6.00, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/blueberrySmoothie.png" },
+      { "name": "Berry Blast", "price": 5.50, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/strawberrySmoothie.png" },
+      { "name": "Green Detox", "price": 6.20, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/blueberrySmoothie.png" },
+      { "name": "Tropical Fusion", "price": 6.00, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/blueberrySmoothie.png" },
+      { "name": "Berry Blast", "price": 5.50, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/strawberrySmoothie.png" },
+      { "name": "Peach Sunrise", "price": 5.80, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/matcha.png" },
+      { "name": "Green Detox", "price": 6.20, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/blueberrySmoothie.png" },
+      { "name": "Tropical Fusion", "price": 6.00, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/blueberrySmoothie.png" },
+      { "name": "Berry Blast", "price": 5.50, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/strawberrySmoothie.png" },
+      { "name": "Green Detox", "price": 6.20, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/blueberrySmoothie.png" },
+      { "name": "Peach Sunrise", "price": 5.80, "description": "A strong, concentrated coffee with a rich aroma.", "image": "https://files.encryptiacity.com/images/matcha.png" }
+    ]
+  }
